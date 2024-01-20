@@ -1,0 +1,15 @@
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\TaskManagementSystem\bin\Debug\net7.0\TaskManagementSystem.exe
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\TaskManagementSystem\bin\Debug\net7.0\TaskManagementSystem.deps.json
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\TaskManagementSystem\bin\Debug\net7.0\TaskManagementSystem.runtimeconfig.json
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\TaskManagementSystem\bin\Debug\net7.0\TaskManagementSystem.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\TaskManagementSystem\bin\Debug\net7.0\TaskManagementSystem.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.csproj.AssemblyReference.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.AssemblyInfoInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.AssemblyInfo.cs
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\TaskManagementSystem\obj\Debug\net7.0\refint\TaskManagementSystem.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\TaskManagementSystem\obj\Debug\net7.0\TaskManagementSystem.genruntimeconfig.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\portifólio\TaskManagementSystem\obj\Debug\net7.0\ref\TaskManagementSystem.dll
